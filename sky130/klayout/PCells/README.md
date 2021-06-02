@@ -20,7 +20,7 @@ The aim of this project is to automatically generate Sky130A devices in Klayout 
 5. From “Local” open “Create_Library” file and run it using “Run current script” button
     ![image](https://user-images.githubusercontent.com/79912650/120478859-97e41d80-c3ad-11eb-9b9e-0a8e83672d7b.png)
     
-6. Select C instance icon from the toolbar 
+6. Select "Instance" icon from the toolbar 
     ![image](https://user-images.githubusercontent.com/79912650/120478951-afbba180-c3ad-11eb-9482-c2e3ad261db2.png)
     
 7. From the “Library” drop down box select “Sky130 - sky130_fd_pr__”
